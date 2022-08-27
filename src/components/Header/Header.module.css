@@ -1,0 +1,20 @@
+.header {
+    grid-area: h;
+    
+    border-color: gray;
+    border-style: solid;
+    display: flex;
+    
+    
+
+}
+
+.header img {
+    width: 50px;
+    height: 50px;
+    margin-top: 3px;
+    
+}
+h1{
+    margin:0;
+}
